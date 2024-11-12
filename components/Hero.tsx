@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi I&aposm Nayanika a Fullstack Developer currently pursuing in B.Tech in CSE With Specialization in Business Systems
+            Hi I&apos;m Nayanika a Fullstack Developer currently pursuing in B.Tech in CSE With Specialization in Business Systems
           </p>
 
           <a href="#about">
