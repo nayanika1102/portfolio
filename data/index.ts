@@ -72,20 +72,20 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Order-N-Eat - Food Ordering Application",
+    des: "Discover and order from top restaurants across cities with Order-N-Eat. Advanced search, secure authentication, live order tracking, and seamless Stripe payments ensure a fast, reliable dining experience.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/Imanubhav11/mern-food-ordering-app-frontend",
   },
   {
-    id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
-  },
+      id: 2,
+      title: "Job Finder - Job Hunting Application",
+      des: "A secure, optimized job search platform built with Node.js and React, featuring authentication, encrypted data, and streamlined job management.",
+      img: "/p2.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      link: "https://github.com/Imanubhav11",
+    },
   {
     id: 3,
     title: "AI Image SaaS - Canva Application",
@@ -107,35 +107,36 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Nayanika has been an incredible experience. Her dedication, technical expertise, and innovative approach to web development brought immense value to our team. Her contributions have made a significant impact on our projects, and we are grateful for her involvement in IEEE. Nayanika is truly a standout talent in tech.",
+    name: "Arjun Mehta",
+    title: "IEEE Club Board Member",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Nayanika's commitment to excellence and her ability to bring fresh ideas to the table have elevated our projects at ISTE to new levels. Her technical skills in web development, coupled with her enthusiasm, make her an invaluable asset. Her active participation has inspired many others in our community.",
+    name: "Sneha Rajan",
+    title: "Chairperson, ISTE",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "It has been a pleasure working alongside Nayanika on various web development projects. Her passion, attention to detail, and drive to innovate are truly commendable. The value she has added to Alpha Biocell is exceptional, and her proactive attitude makes her a joy to collaborate with.",
+    name: "Rajiv Malhotra",
+    title: "Director, Alpha Biocell",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Nayanika brings unparalleled energy and focus to her work. Her contributions in web development and technical innovation have helped our IEEE team achieve outstanding results. She has a natural talent for tackling complex problems, and her commitment to growth sets her apart in every project she undertakes.",
+    name: "Pooja Nair",
+    title: "IEEE Club Member",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Nayanika is a true asset to any team. Her technical expertise and her proactive approach to web development have led to many successful projects within ISTE. Her enthusiasm and dedication have helped drive our club’s initiatives forward, setting a high standard for all members.",
+    name: "Vikram Shah",
+    title: "Vice Chair, ISTE",
   },
 ];
+
 
 export const companies = [
   {
@@ -173,28 +174,28 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Head Of Alpha Bio Cell",
+    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity for Bio based algorithms.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "ISTE - Board Member",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
+    title: "Capstone Flutter Dev",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Lead Frontend Developement in Movido as an intern",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
